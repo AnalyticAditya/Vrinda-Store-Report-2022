@@ -28,8 +28,3 @@ Key Stages:
 This project empowers Vrinda Store to understand their customers better and lays the foundation for increased sales in 2023.
 Dive into the world of Vrinda Store's sales journey in 2022, exploring the nuances of customer behavior, market trends, and strategic opportunities.
 
-Screenshots:
-![Screenshot (630)](https://github.com/AnalyticAditya/Vrinda-Store-Report-2022/assets/155617453/c39009b6-283d-45b6-b9de-2424a709d24a)
-!Screenshot 1
-
-![Screenshot (631)](https://github.com/AnalyticAditya/Vrinda-Store-Report-2022/assets/155617453/d9e406aa-8f68-4621-abea-d0737e0b6e0c)
